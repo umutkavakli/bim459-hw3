@@ -1,6 +1,6 @@
 # BIM459 - AI in Healthcare Homework 3
 
-Welcome to your third assignment, where you’ll be implementing key components of a Convolutional Neural Network, or CNN, using [TensorFlow](https://www.tensorflow.org) and [Keras API](https://keras.io)! This document provides some pre-instructions before starting your homework. The instructions for your assignment will be provided in <b>”BIM459-HW3.ipynb”</b> file. 
+Welcome to your third assignment, where you’ll be implementing key components of a Convolutional Neural Network, or CNN, using [TensorFlow](https://www.tensorflow.org) and [Keras API](https://keras.io) on DermaMNIST dataset of [MedMNIST](https://medmnist.com)! This document provides some pre-instructions before starting your homework. The instructions for your assignment will be provided in <b>”BIM459-HW3.ipynb”</b> file. 
 
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/umutkavakli/bim459-hw3/blob/main/BIM459_HW3.ipynb)
 
